@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# Tesseract Project
+# Eloquence-AI
 
 An AI-powered debate coaching system designed to help users improve their debating skills through automated feedback, argument analysis, and practice opportunities.
 
